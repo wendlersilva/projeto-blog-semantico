@@ -1,4 +1,4 @@
-### Projeto Escolha seu Plano
+### Projeto Blog Semântico
 
 ####  **Tecnologias Utilizadas**
 - HTML
